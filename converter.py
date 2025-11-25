@@ -1,4 +1,4 @@
-def celsius_to_fahrenheit(celsius):
+def celsius_to_fahrenheit(celsius):     # Temperature Converter v1.1
     """Конвертує Цельсій у Фаренгейт"""
     return (celsius * 9/5) + 32
 
